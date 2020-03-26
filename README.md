@@ -2,7 +2,7 @@
 
 The Control Centre (CC) is a platform for managing the lifecycle of IoT devices. A typical Device in CC is identified by SIM in it. Before being put to actual usage, the device needs to be onboarded and activated. When you sign up for CC APIs on DevNet, your account is provisioned with a couple of SIMs. This code sample demostrates how a devices  REST API can be invoked using Java to change status of a device. The device has a lot of properities and status is one of them.  For detailed overview please visit  **[Cisco IoT Control Center Overview](https://developer.cisco.com/docs/control-center/#!cisco-iot-control-center-overview/cisco-iot-control-center-overview "Control Center Overview")**.
 
-You will need an API key for invoking the APIs. The API key can be obtained after signing for CC API from Cisco DevNet. Please check** [How to use APIs](https://developer.cisco.com/docs/control-center/#!getting-started/getting-started "How to use APIs")** for more details.  
+You will need an API key for invoking the APIs. The API key can be obtained after signing for CC API from Cisco DevNet. Please check **[How to use APIs](https://developer.cisco.com/docs/control-center/#!getting-started/getting-started "How to use APIs")** for more details.  
 
 # Pre-requisite 
 1. JDK 8 or above
