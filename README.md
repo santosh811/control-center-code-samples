@@ -1,4 +1,4 @@
-# SIM Lifecycle Management
+# Control Center SIM Lifecycle Management
 
 This repo contains code sample that demonstrates how to invoke the Cisco IoT Control Center Devices REST API for a device (identified by its SIM) using Java to check the value of one attribute then change the value of another. In this case, the code sample retrieves information about the device status and changes the status of the device accordingly. You can also use the same construct to check on attributes like usage, zones, or sessions and change another attribute like SIM state. 
 
