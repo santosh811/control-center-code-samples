@@ -24,7 +24,7 @@ This is one of the most common use cases for the Control Center API and can be a
 
 6. Open the file src/main/java/com/cisco/jasper/Devices.java, which contains the application with different methods to invoke the Cisco IoT Control Center API calls.
 
-7. Explore the sample code to learn how to use the Cisco IoT Control Center Device REST APIs. You can use them to create your own applications—and submit your code samples to DevNet CodeExchange!
+7. Explore the sample code to learn how to use the Cisco IoT Control Center Device REST APIs. You can use them to create your own applications—and [submit your code samples](https://developer.cisco.com/codeexchange/github/submit) to [DevNet CodeExchange](https://developer.cisco.com/codeexchange/)!
 
 # Resources
 
@@ -32,3 +32,4 @@ This is one of the most common use cases for the Control Center API and can be a
 - [Control Center DevNet Microsite](https://developer.cisco.com/site/control-center/) (request sandbox access here)
 - [Forum](https://community.cisco.com/t5/internet-of-things-iot/bd-p/4698j-disc-dev-iot) (submit your question with the tag “Control Center”)
 - [Developer Support](https://developer.cisco.com/site/support/)
+- [Submit code samples to CodeExchange](https://developer.cisco.com/codeexchange/github/submit)
