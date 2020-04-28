@@ -28,7 +28,7 @@ public class Devices {
 	
 	static final String STATUS_ACTIVATED = "ACTIVATED";
 	static final String STATUS_DEACTIVATED = "DEACTIVATED";	
-	static final String API_END_POINT_DEVICES = ": https://rws-jpotest.jasperwireless.com/rws/api/v1/devices";
+	static final String API_END_POINT_DEVICES = "https://rws-jpotest.jasperwireless.com/rws/api/v1/devices";
 	
 	public static void main(String arg[]){		
 		
