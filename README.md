@@ -22,7 +22,7 @@ This is one of the most common use cases for the Control Center API and can be a
 
 5. Update the configuration based on your own setup, including your sandbox username, API Key, and proxy if required. The configuration is hosted in the java file src/main/java/com/cisco/jasper/util/Configuration.java.
 
-6. Open the file src/main/java/com/cisco/jasper/Devices.java, which contains the application with different methods to invoke the Cisco IoT Control Center API calls. E.g. json output of running the code for getting the device details is a follows,
+6. Open the file src/main/java/com/cisco/jasper/Devices.java, which contains the application with different methods to invoke the Cisco IoT Control Center API calls. The output is printed at the console. E.g. json output of running the code for getting the device details is a follows,
     ```javascript
     {"pageNumber":1,"devices":[{"iccid":"9989203000880000201","status":"TEST_READY","ratePlan":"JPOTestDevnet","communicationPlan":"JPOTestDevnetCPEss"},{"iccid":"9989203000880000202","status":"TEST_READY","ratePlan":"JPOTestDevnet","communicationPlan":"JPOTestDevnetCPEss"}],"lastPage":true}
     ```
