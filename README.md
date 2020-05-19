@@ -32,7 +32,7 @@ This is one of the most common use cases for the Control Center API and can be a
 # Resources
 
 - [APIs and documentation](https://developer.cisco.com/docs/control-center/#!rest-api-functions "APIs and documentation")
-- [Control Center DevNet Microsite](https://developer.cisco.com/site/control-center/) (request sandbox access here)
+- [Control Center DevNet Microsite](https://developer.cisco.com/control-center/) (request sandbox access here)
 - [Forum](https://community.cisco.com/t5/internet-of-things-iot/bd-p/4698j-disc-dev-iot) (submit your question with the tag “Control Center”)
 - [Developer Support](https://developer.cisco.com/site/support/)
 - [Submit code samples to CodeExchange](https://developer.cisco.com/codeexchange/github/submit)
